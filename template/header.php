@@ -26,7 +26,7 @@
                         <ul class="layui-nav menu" lay-filter="">
                             <li class="layui-nav-item"><a href="./index.php?c=cache"><i class="fa fa-file-text" aria-hidden="true"></i> 文件索引</a></li>
                             <!--<li class="layui-nav-item"><?php $zdir->https(); ?></li>-->
-                            <li class="layui-nav-item"><a href="https://baiyue.one/archives/458.html" target = "_blank" rel = "nofollow"><i class="fa fa-code" aria-hidden="true"></i> 帮助文档</a></li>
+                            <li class="layui-nav-item"><a href="https://baiyue.one/archives/458.html" target = "_blank" rel = "nofollow"><i class="fa fa-code" aria-hidden="true"></i> 搭建教程</a></li>
                             <li class="layui-nav-item"><a href="https://doc.xiaoz.me/#/zdir/" target = "_blank" rel = "nofollow"><i class="fa fa-file-text-o" aria-hidden="true"></i> 帮助文档</a></li>
                             <li class="layui-nav-item"><a href="https://imgurl.org/" title = "免费图床ImgURL"><i class="layui-icon">&#xe64a;</i> 免费图床</a></li>
                             
